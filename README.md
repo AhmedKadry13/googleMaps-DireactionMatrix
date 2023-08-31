@@ -1,7 +1,7 @@
 
 # Google Maps Direction Matrix
 
-Tis project is model google maps direction matrix detailed here [![Distance Matrix API]](https://developers.google.com/maps/documentation/distance-matrix/overview)
+Tis project is model google maps direction matrix detailed here [Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/overview)
 
 more info can be found here [Github google maps services](https://github.com/googlemaps/google-maps-services-java/blob/main/README.md)
 
@@ -17,6 +17,6 @@ more info can be found here [Github google maps services](https://github.com/goo
 
 
 ## 🚀 About Me
-I'm lead quality control engineer @[![kaart]](https://www.linkedin.com/company/kaartapp/)
+I'm lead quality control engineer @[kaart](https://www.linkedin.com/company/kaartapp/)
 
 
