@@ -13,7 +13,7 @@ more info can be found here [Github google maps services](https://github.com/goo
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-kadry-bbb2851b3/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akadry9583)
 
 
 ## 🚀 About Me
